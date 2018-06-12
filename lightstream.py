@@ -18,11 +18,13 @@ class MyStreamer(TwythonStreamer):
             username = data['user']['screen_name']
             tweet = data['text']
             print("@{}: {}".format(username, tweet))
+            # do something
             red.on()
             sleep(0.1)
             red.off()
             sleep(0.1)
             red.off()
+
 
 stream = MyStreamer(
     consumer_key,
