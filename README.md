@@ -3,7 +3,7 @@
 ## About 
 
 Workshop materials for in Intro to Physical Computing with Raspbery Pi.
-We first learn how to program a traffic light sequence, then use the twitter API and twython to extend their program by using twitter stream as an input to the light sequence.
+We first learn how to program a traffic light sequence, then use the twitter API and twython to extend the program.
 
 [Intro Slides](https://docs.google.com/presentation/d/186-f-mb5F8YWGBAaOivF1alSAIr5HmlcWDM0Tl-a5ig/edit?usp=sharing)
 
@@ -25,13 +25,14 @@ Use basic programming constructs to create simple programs.
 - [Thonny Python Editor](http://thonny.org/)
 - [LXTerminal](https://www.raspberrypi.org/documentation/usage/terminal/)
 
-### Notes:
+### Classroom Set Up:
 
 Requires internet that allows connection to twitter.
 
-Participants need to be comfortable signing up for a twitter account with phone verification for twitter API access. 
+Participants need to sign up for a twitter account with phone verification for twitter API access. 
 
 ### Resources:
 
 - [Raspberry Pi Projects](https://projects.raspberrypi.org/en/)
 - [MagPi The Official Raspberry Pi Magazine](https://www.raspberrypi.org/magpi/)
+
